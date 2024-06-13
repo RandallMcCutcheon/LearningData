@@ -12,3 +12,5 @@ For the deltamission series, the decode is:
 With a coincident search pattern in between the above loiter patterns:
 - L - Lawnmower
 - B - Bowtie
+
+Synthetic dataset variation provided by reflections (r).
